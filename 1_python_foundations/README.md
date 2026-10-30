@@ -13,7 +13,7 @@ Building this architecture without external libraries demonstrates a rigorous gr
 The transition from static records to an automated fleet required three distinct developmental phases:
 
 **1. Financial and Harvest Data Integrity**
-To replace the ministry's fragile notepad system, raw text data was cleaned and transformed into immutable tuples and dictionary records[cite: 1]. This execution processes raw harvest weights and market prices to output a strictly formatted, error-free financial summary for the ministry's finance team[cite: 1].
+To replace the ministry's fragile notepad system, raw text data was cleaned and transformed into immutable tuples and dictionary records[cite: 1]. This execution processess raw harvest weights and market prices to output a strictly formatted, error-free financial summary for the ministry's finance team[cite: 1].
 
 ![Formatted financial summary output](images/01-financial-summary.png)
 
